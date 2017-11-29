@@ -38,7 +38,7 @@ Icons can alert merchants to changes in status and make the interface easier to 
 
 ## Best practices
 
-* Icons should be accessible: remember that people with people with limited vision may not be able to see icons. Review our [alternative text guidelines](/content/alternative-text) to make sure your use of icon works for all merchants.
+* Icons should be accessible: remember that people with limited vision may not be able to see icons. Review our [alternative text guidelines](/content/alternative-text) to make sure your use of icon works for all merchants.
 
 ---
 
